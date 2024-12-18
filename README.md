@@ -12,9 +12,9 @@ I have worked on various projects while learning ROS-based robot control and dee
 (2024.06.24~12.17)
 
 1. **타이어 마모도 측정 서비스 로봇**  
-   - **기술**: Mask R-CNN | ROS2(SLAM, Nav2, Depth Topic, Moveit2) | CAD(Fusion360, Thinker CAD)  
+   - **기술**: Mask R-CNN Fine Tunning | ROS2(SLAM, Nav2, Depth Topic, Moveit2) | CAD(Fusion360, Thinker CAD)  
    - **장비**: myAGV, myCobot320, PLC, 3D Depth Camera  
-   - **내용**: 로봇 카메라와 딥러닝 기반 객체 분할 모델을 통해 타이어 트레드 상태를 자동 분류
+   - **내용**:  트레드 깊이 측정 및 딥러닝 마모 상태 분석 | SLAM과 Moveit2 활용 이동형 로봇 타이어 점검 시스템 개발
    - [Repository Link](https://github.com/seungwook97/TireDepth_MaskRCNN)    
 
 2. **YOLO 기반 분류 로봇**  
