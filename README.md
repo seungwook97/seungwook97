@@ -50,4 +50,4 @@ Through the KG Kairos 2nd AI Robotics Training Program, I successfully implement
 ### 🤝 Contact  
 - **Email:** swk1067@naver.com  
 - **GitHub:** [https://github.com/seungwook97](https://github.com/seungwook97)  
-- **Blog:** [https://blog.naver.com/swk106](https://blog.naver.com/swk106)  
+- **Blog:** [https://blog.naver.com/swk1067](https://blog.naver.com/swk1067)  
