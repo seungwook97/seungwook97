@@ -17,13 +17,13 @@ I have worked on various projects while learning ROS-based robot control and dee
    - **내용**: 타이어 트레드 깊이 측정 및 딥러닝 마모 상태 분석 | SLAM 및 Moveit2 활용, 이동형 로봇 타이어 점검 시스템 개발
    - [Repository Link](https://github.com/seungwook97/Mask-R-CNN)    
 
-2. **YOLO 기반 분류 로봇**  
+2. **YOLO 기반 자동화 분류 6축 로봇**  
    - **기술**: YOLOv8, OpenCV, myBlockly, ROS2(Depth Topic, rviz2)  
    - **장비**: MyCobot320, PLC, 3D Depth Camera, 2D Vision Camera  
    - **내용**: YOLO 모델 기반 제품(정상/불량) 실시간 분류 | Depth Camera Topic 데이터(x, y, z 좌표)를 활용한 로봇 암 제어  
    - [Repository Link](https://github.com/seungwook97/Robot-yolo-project)
 
-3. **CV2 기반 장애물 회피 라인 주행 로봇**  
+3. **CV2 기반 장애물 회피 라인 자율주행 로봇**  
    - **기술**: OpenCV, ArUco Marker, ROS2(Lidar Sensor Topic)  
    - **장비**: myAGV(with Raspberry Pi, Lidar Sensor), 2D Vision Camera  
    - **내용**: OpenCV로 라인 감지 및 ArUco Marker 추적 주행 | ROS Lidar Topic 데이터를 활용한 장애물 감지 및 회피 주행  
