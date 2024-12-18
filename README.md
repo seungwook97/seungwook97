@@ -1,6 +1,7 @@
-# Kairos AI Robotics Project
+# About Me 
 
-안녕하세요! 저는 ROS 기반 서비스 로봇 소프트웨어 개발에 관심이 있는 주니어 개발자입니다.  
+👋
+안녕하세요! ROS 기반 서비스 로봇 소프트웨어 개발에 관심이 있는 주니어 개발자입니다.  
 KG 카이로스 2기 AI 로보틱스 훈련 프로그램에서 다양한 프로젝트를 수행하며, 딥러닝 기반 객체 탐지 및 로봇 제어 통합 기술을 연구하고 있습니다.
 
 Hello! I am a junior developer dedicated to advancing ROS-based service robot software development.  
