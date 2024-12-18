@@ -16,7 +16,7 @@ I have worked on various projects while learning ROS-based robot control and dee
    - **장비**: myAGV, myCobot320, PLC, 3D Depth Camera  
    - **내용**: 타이어 트레드 깊이 측정 및 딥러닝 마모 상태 분석 | SLAM 및 Moveit2 활용, 이동형 로봇 타이어 점검 시스템 개발
    - [Repository Link-CNN](https://github.com/seungwook97/Tire-Tread-Analysis-with-Mask-R-CNN)
-   - [Repository Link-DepthCam](Tire-Tread-Analysis-with-Depth-Camera)    
+   - [Repository Link-DepthCam](https://github.com/seungwook97/Tire-Tread-Analysis-with-Depth-Camera)    
 
 2. **YOLO 기반, 자동화 분류 6축 로봇**  
    - **기술**: YOLOv8, OpenCV, myBlockly, ROS2(Depth Topic, rviz2)  
