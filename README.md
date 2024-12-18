@@ -47,8 +47,8 @@ KG 카이로스 2기 AI 로보틱스 훈련 프로그램에서 다양한 프로�
 
 ### 🤝 Contact
 - 프로젝트나 연구에 대해 논의하고 싶으시면, 아래 이메일로 연락주세요! 
-**Email:** swk1067@naver.com
+   - **Email:** swk1067@naver.com
 
 - 깃허브와 블로그에서 자세한 프로젝트 수행 및 공부 기록을 살펴보실 수 있습니다.
-**GitHub:** https://github.com/seungwook97
-**Blog:** https://blog.naver.com/swk106
+   - **GitHub:** https://github.com/seungwook97
+   - **Blog:** https://blog.naver.com/swk106
