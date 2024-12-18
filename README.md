@@ -27,7 +27,7 @@ I have worked on various projects while learning ROS-based robot control and dee
    - **기술**: OpenCV, ArUco Marker, ROS2(Lidar Sensor Topic)  
    - **장비**: myAGV(with Raspberry Pi, Lidar Sensor), 2D Vision Camera  
    - **내용**: OpenCV로 라인 감지 및 ArUco Marker 추적 주행 | ROS Lidar Topic 데이터를 활용한 장애물 감지 및 회피 주행  
-   - [Repository Link](https://github.com/seungwook97/Agv-Line-Traicing)
+   - [Repository Link](https://github.com/seungwook97/Agv-Line-Tracing)
 
 ---
 
