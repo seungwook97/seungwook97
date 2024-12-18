@@ -1,6 +1,6 @@
 # 👋About Me 
 
-안녕하세요! 서비스 로봇 소프트웨어 개발에 관심이 있는 주니어 개발자입니다. 
+안녕하세요! 서비스 로봇 소프트웨어 개발에 관심이 있는 학생 개발자입니다. 
 KG 카이로스 AI 로보틱스 프로그램에서 ROS 기반 로봇 제어와 딥러닝 전이학습을 학습하며 다양한 프로젝트를 수행하였습니다.
 
 Hello! I am a junior developer with an interest in service robot software development. 
