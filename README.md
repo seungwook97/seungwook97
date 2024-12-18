@@ -34,7 +34,7 @@ Through the KG Kairos 2nd AI Robotics Training Program, I successfully implement
 ### 🧑‍💻 Tech Stack  
 - **Programming Languages**: Python, C++ (Intermediate)  
 - **Frameworks/Tools**: OpenCV | YOLOv8, Mask R-CNN, Mediapipe | ROS 1&2, SLAM, Nav2, Moveit2 | Fusion360  
-- **Hardware/Devices**: myAGV, Cobot | ESP32, Arduino, STM32, Raspberry PI, Jetson Nano | 3D Depth Camera, Lidar | LS PLC  
+- **Hardware/Devices**: myAGV, myCobot320 | ESP32, Arduino, STM32, Raspberry PI, Jetson Nano | 3D Depth Camera, Lidar | LS PLC  
 - **OS/Platforms**: Linux (Ubuntu), Windows  
 
 ---
