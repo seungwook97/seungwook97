@@ -1,30 +1,30 @@
 # Kairos AI Robotics Project
 
-### About Me 👋
-안녕하세요! 저는 ROS 기반 서비스 로봇 소프트웨어 개발에 관심이 있는 주니어 개발자입니다.  
-KG 카이로스 2기 AI 로보틱스 훈련 프로그램에서 다양한 프로젝트를 수행하며 딥러닝과 로봇 기술의 융합에 대해 연구하고 있습니다.  
-(2024.06.24~12.17 수료)
+안녕하세요! 저는 ROS 기반 서비스 로봇 소프트웨어 개발에 관심이 있는 주니어 개발자입니다.
+KG 카이로스 2기 AI 로보틱스 훈련 프로그램에서 다양한 프로젝트를 수행하며, 딥러닝과 로봇 기술의 융합에 대해 연구하고 있습니다.
+
+Hello! I am a junior developer passionate about ROS-based service robot software development.
+I have been exploring the integration of deep learning and robotics by participating in various projects during the KG Kairos 2nd AI Robotics Training Program.
 
 ---
 
-### 🛠️ Projects & Technologies
+### 🛠️ KG Karios Projects & Technologies
+(2024.06.24~12.17)
 
 1. **타이어 마모도 측정 서비스 로봇**  
-   - **기술**: Mask R-CNN, SLAM, CAD(Fusion360, Thinker CAD)  
+   - **기술**: Mask R-CNN | ROS1(SLAM, nav2), ROS2(Depth Topic, Moveit2) | CAD(Fusion360, Thinker CAD)  
    - **장비**: myAGV, myCobot320, PLC, 3D Depth Camera  
-   - **환경**: Linux, ROS2 (Humble)  
    - **내용**: 로봇 카메라와 딥러닝 기반의 객체 분할 모델을 통해 타이어 트레드 상태를 자동 분류  
 
 2. **YOLO 기반 분류 로봇**  
-   - **기술**: YOLOv8, OpenCV  
-   - **장비**: MyCobot320, PLC, 3D Depth Camera, 2D Vision Camera  
-   - **내용**: YOLO 모델을 활용하여 제품(정상/불량)을 실시간으로 분류하고, 3D Depth 카메라 데이터를 기반으로 로봇 암 제어  
+   - **기술**: YOLOv8, OpenCV, myBlockly, ROS2 (rviz2, tf2)
+   - **장비**: MyCobot320, PLC, 3D Depth Camera, 2D Vision Camera
+   - **내용**: YOLO 모델 기반 제품(정상/불량) 실시간 분류 | Depth Camera Topic DATA(x,y,z좌표) 기반 로봇 암 제어 | PLC 485 통신으로 터치 및 컨베이어 밸트 제어  
 
-3. **CV2 기반 라인트레이싱 주행 로봇**  
-   - **기술**: OpenCV, Python  
-   - **장비**: ESP32, DC Motor, L9110S Motor Driver  
-   - **환경**: ROS2 통신을 활용한 제어  
-   - **내용**: OpenCV로 라인을 감지하여 로봇이 주행 경로를 따라 이동하도록 제어  
+3. **CV2 기반 장애물 회피 라인 주행 로봇**  
+   - **기술**: OpenCV, ArUco Marker, ROS2 (rviz2, nav_msgs, sensor_msgs)
+   - **장비**: myAGV(with Laspberry pi, Lidar Sensor), 2D Vision Camera 
+   - **내용**: OpenCV 라인 인식 및 ArUco Marker 추적 주행 | Lidar ROS Topic DATA 기반 장애물 감지 및 회피 주행
 
 ---
 
