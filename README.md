@@ -40,10 +40,12 @@ I have worked on various projects while learning ROS-based robot control and dee
 ---
 
 ### 🎯 Research & Career Interests  
-**Focus Area:** Developing Software for Service Robots Using AI (Deep Learning) Technologies  
+**Focus Area:** Developing Software for Robots Using AI (Deep Learning) Technologies  
 - *Integrating AI with Robotics:* Developing real-world applications where AI-driven insights enhance robotic efficiency and autonomy.  
 - *Service Robot Applications:* Envisioning and implementing robotic solutions to automate industrial tasks and improve service quality.  
-- *ROS-Based Development:* Building and implementing robot software architectures using ROS2.  
+- *ROS-Based Development:* Building and implementing robot software architectures using ROS2.
+- *LiDAR and Multi-Sensor-Based Autonomous Driving Perception:* Enhancing autonomous driving reliability
+by improving object detection and environment mapping using LiDAR and camera sensor fusion.
 
 ---
 
